@@ -1,0 +1,7 @@
+boto3
+pillow
+keras
+h5py
+pandas
+tensorflow
+scikit-image

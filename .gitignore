@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Project specific
+*~
+/faces/
+/*.npy
+*.mdl
+/*.csv
+/__pycache__/
+/experiments
+experiments/
