@@ -1,5 +1,5 @@
 # ml-and-security
-Code accompanying our article (co-authors [Alex Ott](https://github.com/alexott)) and [Damilare Fagbemi](https://edgeofus.com/)
+Code accompanying our article (co-authors [Alex Ott](https://github.com/alexott) and [Damilare Fagbemi](https://edgeofus.com/))
 on the implications of student/teacher model training from a security perspective.
 
 
